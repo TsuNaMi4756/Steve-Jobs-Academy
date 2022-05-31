@@ -2,10 +2,31 @@
     "products":[
         {
             "id": 1,
-            "title": "Titolo del prodotto",
-            "category": "low cost",
-            "price": 50,
-            "stock": 10
+            "titolo": "Palermo-Catania",
+            "partenza": "Palermo",
+            "destinazione":"Catania",
+            "prezzo": 23
+        },
+        {
+            "id": 2,
+            "titolo": "Palermo-Catania",
+            "partenza": "Palermo",
+            "destinazione":"Catania",
+            "prezzo": 23
+        },
+        {
+            "id": 3,
+            "titolo": "Palermo-Bagheria",
+            "partenza": "Palermo",
+            "destinazione":"Bagheria",
+            "prezzo": 3
+        },
+        {
+            "id": 4,
+            "titolo": "Bagheria-Palermo",
+            "partenza": "Bagheria",
+            "destinazione":"Palermo",
+            "prezzo": 3
         }
     ]
 }
