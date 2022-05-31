@@ -5,28 +5,32 @@
             "titolo": "Palermo-Catania",
             "partenza": "Palermo",
             "destinazione":"Catania",
-            "prezzo": 23
+            "prezzo": 23,
+            "url":'https://www.ioamolasicilia.com/wp-content/uploads/ngg_featured/XT102509.jpg'
         },
         {
             "id": 2,
-            "titolo": "Palermo-Catania",
-            "partenza": "Palermo",
-            "destinazione":"Catania",
-            "prezzo": 23
+            "titolo": "Catania-Palermo",
+            "partenza": "Catania",
+            "destinazione":"Palermo",
+            "prezzo": 23,
+            "url":'https://www.ioamolasicilia.com/wp-content/uploads/ngg_featured/XT102509.jpg'
         },
         {
             "id": 3,
             "titolo": "Palermo-Bagheria",
             "partenza": "Palermo",
             "destinazione":"Bagheria",
-            "prezzo": 3
+            "prezzo": 3,
+            "url":'https://www.ioamolasicilia.com/wp-content/uploads/ngg_featured/XT102509.jpg'
         },
         {
             "id": 4,
             "titolo": "Bagheria-Palermo",
             "partenza": "Bagheria",
             "destinazione":"Palermo",
-            "prezzo": 3
+            "prezzo": 3,
+            "url":'https://www.ioamolasicilia.com/wp-content/uploads/ngg_featured/XT102509.jpg'
         }
     ]
 }
